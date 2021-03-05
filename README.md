@@ -28,13 +28,15 @@ Mark the contribution to open source.
 
 [YARN-10352](https://issues.apache.org/jira/browse/YARN-10352) Skip schedule on not heartbeated nodes in Multi Node Placement. Contributed by Prabhu Joseph and Qi Zhu
 
-[YARN-10448]((https://issues.apache.org/jira/browse/YARN-10448) SLS should set default user to handle SYNTH format. Contributed by zhuqi
+[YARN-10448](https://issues.apache.org/jira/browse/YARN-10448) SLS should set default user to handle SYNTH format. Contributed by zhuqi
 
 [YARN-10611](https://issues.apache.org/jira/browse/YARN-10611) Fix that shaded should be used for google guava imports in YARN-10352. Contributed by Qi Zhu
 
 [YARN-10647](https://issues.apache.org/jira/browse/YARN-10647) Fix TestRMNodeLabelsManager failed after YARN-10501. Contributed by Qi Zhu.
 
 [YARN-10609](https://issues.apache.org/jira/browse/YARN-10609) Update the document for YARN-10531(Be able to disable user limit factor for CapacityScheduler Leaf Queue). Contributed by Qi Zhu.
+
+[YARN-8995](https://issues.apache.org/jira/browse/YARN-8995) Log events info in AsyncDispatcher when event queue size cumulatively reaches a certain number every time. Contributed by zhuqi.
 
 [YARN-10653](https://issues.apache.org/jira/browse/YARN-10653) Fixed the findbugs issues introduced by YARN-10647. Contributed by Qi Zhu
 
