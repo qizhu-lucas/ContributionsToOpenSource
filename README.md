@@ -3,7 +3,7 @@
 ## Qi Zhu is a very active contributor to HADOOP(YARN/HDFS)
 Mark the contribution to open source.
 
-## Merged to Community
+## Merged to Apache Community
 
 ### Hadoop (HDFS/YARN)
 [YARN-10532](https://issues.apache.org/jira/browse/YARN-10532) Capacity Scheduler Auto Queue Creation: Allow auto delete queue when queue is not being used. Contributed by Qi Zhu.  
