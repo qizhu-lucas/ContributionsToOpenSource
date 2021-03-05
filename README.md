@@ -126,12 +126,12 @@ Mark the contribution to open source.
 [HDFS-14944](https://issues.apache.org/jira/browse/HDFS-14944)  ec admin such as : -enablePolicy should support multi federation namespace not only the default namespace in core-site.xml
 
 ### Hadoop Common:
-[HADOOP-17257](https://issues.apache.org/jira/browse/HADOOP-17257)
+[HADOOP-17257](https://issues.apache.org/jira/browse/HADOOP-17257) pid file delete when service stop (secure datanode ) show cat no directory
 
 ### Ozone:
-[HDDS-4561](https://issues.apache.org/jira/browse/HDDS-4561)
+[HDDS-4561](https://issues.apache.org/jira/browse/HDDS-4561) We should support suggested Ratis Server Leader in OM HA.
 
 ### Flink:
-[FLINK-16809] (https://issues.apache.org/jira/browse/FLINK-16809)
+[FLINK-16809](https://issues.apache.org/jira/browse/FLINK-16809) Support setting CallerContext on YARN deployments
 
 
