@@ -1,4 +1,6 @@
 # ContributionsToOpenSource
+
+## Qi Zhu is a very active contributor to HADOOP(YARN/HDFS)
 Mark the contribution to open source.
 
 ## Merged to Community
