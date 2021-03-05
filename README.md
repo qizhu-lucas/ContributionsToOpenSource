@@ -14,6 +14,8 @@ Mark the contribution to open source.
 
 [YARN-10610](https://issues.apache.org/jira/browse/YARN-10610) Add queuePath to RESTful API for CapacityScheduler consistent with FairScheduler queuePath. Contributed by Qi Zhu
 
+[YARN-10639](https://issues.apache.org/jira/browse/YARN-10639) Queueinfo related capacity, should adjusted to weight mode. Contributed by Qi Zhu.
+
 [YARN-10587](https://issues.apache.org/jira/browse/YARN-10587) Fix AutoCreateLeafQueueCreation cap related caculation when in absolute mode. (Qi Zhu via wangda)
 
 [YARN-10531](https://issues.apache.org/jira/browse/YARN-10531) Be able to disable user limit factor for CapacityScheduler Leaf Queue. (Qi Zhu via wangda)
