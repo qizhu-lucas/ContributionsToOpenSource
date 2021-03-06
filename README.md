@@ -16,6 +16,8 @@ Mark the contribution to open source.
 
 [YARN-10639](https://issues.apache.org/jira/browse/YARN-10639) Queueinfo related capacity, should adjusted to weight mode. Contributed by Qi Zhu.
 
+[YARN-10640](https://issues.apache.org/jira/browse/YARN-10640) Adjust the queue Configured capacity to Configured weight number for weight mode in UI. Contributed by Qi Zhu.
+
 [YARN-10587](https://issues.apache.org/jira/browse/YARN-10587) Fix AutoCreateLeafQueueCreation cap related caculation when in absolute mode. (Qi Zhu via wangda)
 
 [YARN-10531](https://issues.apache.org/jira/browse/YARN-10531) Be able to disable user limit factor for CapacityScheduler Leaf Queue. (Qi Zhu via wangda)
@@ -55,9 +57,6 @@ Mark the contribution to open source.
 
 ## Patch availale or In progress:
 ### YARN/HDFS
-[YARN-10639](https://issues.apache.org/jira/browse/YARN-10639) Queueinfo related capacity, should adjusted to weight mode.
-
-[YARN-10640](https://issues.apache.org/jira/browse/YARN-10640) Adjust the queue Configured capacity to Configured weight number for weight mode in UI.
 
 [YARN-10637](https://issues.apache.org/jira/browse/YARN-10637) We should support fs to cs support for auto refresh queues when conf changed, after YARN-10623 finished.
 
