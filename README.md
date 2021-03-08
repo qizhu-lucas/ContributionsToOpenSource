@@ -70,8 +70,6 @@ Mark the contribution to open source.
 
 [YARN-10221](https://issues.apache.org/jira/browse/YARN-10221) Nodemanager lockups on printEventQueueDetails
 
-[YARN-10658](https://issues.apache.org/jira/browse/YARN-10658) CapacityScheduler QueueInfo getQueueName should change to queue path to avoid ambiguous QueueName.
-
 [YARN-10641](https://issues.apache.org/jira/browse/YARN-10641) Refactor the max app related update, and fix maxApllications update error when add new queues.
 
 [YARN-10657](https://issues.apache.org/jira/browse/YARN-10657) We should make max application per queue to support node label.
