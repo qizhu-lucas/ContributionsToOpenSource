@@ -14,6 +14,8 @@ Mark the contribution to open source.
 
 [YARN-10610](https://issues.apache.org/jira/browse/YARN-10610) Add queuePath to RESTful API for CapacityScheduler consistent with FairScheduler queuePath. Contributed by Qi Zhu
 
+[YARN-10658](https://issues.apache.org/jira/browse/YARN-10658) CapacityScheduler QueueInfo add queue path field to avoid ambiguous QueueName. Contributed by Qi Zhu.
+
 [YARN-10639](https://issues.apache.org/jira/browse/YARN-10639) Queueinfo related capacity, should adjusted to weight mode. Contributed by Qi Zhu.
 
 [YARN-10640](https://issues.apache.org/jira/browse/YARN-10640) Adjust the queue Configured capacity to Configured weight number for weight mode in UI. Contributed by Qi Zhu.
