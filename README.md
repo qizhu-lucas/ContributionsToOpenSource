@@ -12,6 +12,8 @@ Mark the contribution to open source.
 
 [YARN-10624](https://issues.apache.org/jira/browse/YARN-10624)Support max queues limit configuration in new auto created queue, consistent with old auto created. Contributed by Qi Zhu
 
+[YARN-9615](https://issues.apache.org/jira/browse/YARN-9615) Add dispatcher metrics to RM. Contributed by Jonathan Hung and Qi Zhu.
+
 [YARN-10610](https://issues.apache.org/jira/browse/YARN-10610) Add queuePath to RESTful API for CapacityScheduler consistent with FairScheduler queuePath. Contributed by Qi Zhu
 
 [YARN-10658](https://issues.apache.org/jira/browse/YARN-10658) CapacityScheduler QueueInfo add queue path field to avoid ambiguous QueueName. Contributed by Qi Zhu.
