@@ -68,8 +68,6 @@ Mark the contribution to open source.
 
 [YARN-10632](https://issues.apache.org/jira/browse/YARN-10632) Make maximum depth allowed configurable.
 
-[YARN-9615](https://issues.apache.org/jira/browse/YARN-9615) Add dispatcher metrics to RM
-
 [YARN-10221](https://issues.apache.org/jira/browse/YARN-10221) Nodemanager lockups on printEventQueueDetails
 
 [YARN-10641](https://issues.apache.org/jira/browse/YARN-10641) Refactor the max app related update, and fix maxApllications update error when add new queues.
