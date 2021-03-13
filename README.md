@@ -10,6 +10,8 @@ Mark the contribution to open source.
 
 [YARN-10623](https://issues.apache.org/jira/browse/YARN-10623) Capacity scheduler should support refresh queue automatically by a thread policy. Contributed by Qi Zhu.   
 
+[YARN-10687](https://issues.apache.org/jira/browse/YARN-10687) Add option to disable/enable free disk space checking and percentage checking for full and not-full disks. Contributed by Qi Zhu.
+
 [YARN-10624](https://issues.apache.org/jira/browse/YARN-10624)Support max queues limit configuration in new auto created queue, consistent with old auto created. Contributed by Qi Zhu
 
 [YARN-9615](https://issues.apache.org/jira/browse/YARN-9615) Add dispatcher metrics to RM. Contributed by Jonathan Hung and Qi Zhu.
