@@ -49,6 +49,8 @@ Mark the contribution to open source.
 [YARN-10609](https://issues.apache.org/jira/browse/YARN-10609) Update the document for YARN-10531(Be able to disable user limit factor for CapacityScheduler Leaf Queue). Contributed by Qi Zhu.
 
 [YARN-8995](https://issues.apache.org/jira/browse/YARN-8995) Log events info in AsyncDispatcher when event queue size cumulatively reaches a certain number every time. Contributed by zhuqi.
+
+[YARN-10686](https://issues.apache.org/jira/browse/YARN-10686) Fix TestCapacitySchedulerAutoQueueCreation#testAutoQueueCreationFailsForEmptyPathWithAQCAndWeightMode. Contributed by Qi Zhu.
  
 [YARN-10682](https://issues.apache.org/jira/browse/YARN-10682) The scheduler monitor policies conf should trim values separated by comma. Contributed by Qi Zhu.
 
