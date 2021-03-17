@@ -51,6 +51,7 @@ Mark the contribution to open source.
 [YARN-8995](https://issues.apache.org/jira/browse/YARN-8995) Log events info in AsyncDispatcher when event queue size cumulatively reaches a certain number every time. Contributed by zhuqi.
 
 [YARN-10686](https://issues.apache.org/jira/browse/YARN-10686) Fix TestCapacitySchedulerAutoQueueCreation#testAutoQueueCreationFailsForEmptyPathWithAQCAndWeightMode. Contributed by Qi Zhu.
+
 [YARN-10497](https://issues.apache.org/jira/browse/YARN-10497) Fix an issue in CapacityScheduler which fails to delete queues. Contributed by Wangda Tan and Qi Zhu.
  
 [YARN-10682](https://issues.apache.org/jira/browse/YARN-10682) The scheduler monitor policies conf should trim values separated by comma. Contributed by Qi Zhu.
