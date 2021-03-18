@@ -22,6 +22,10 @@ Mark the contribution to open source.
 
 [YARN-10658](https://issues.apache.org/jira/browse/YARN-10658) CapacityScheduler QueueInfo add queue path field to avoid ambiguous QueueName. Contributed by Qi Zhu.
 
+[YARN-10641](https://issues.apache.org/jira/browse/YARN-10641) Refactor the max app related update, and fix maxApllications update error when add new queues. Contributed by Qi Zhu.
+
+[YARN-10692](https://issues.apache.org/jira/browse/YARN-10692) Add Node GPU Utilization and apply to NodeMetrics. Contributed by Qi Zhu.
+
 [YARN-10639](https://issues.apache.org/jira/browse/YARN-10639) Queueinfo related capacity, should adjusted to weight mode. Contributed by Qi Zhu.
 
 [YARN-10640](https://issues.apache.org/jira/browse/YARN-10640) Adjust the queue Configured capacity to Configured weight number for weight mode in UI. Contributed by Qi Zhu.
@@ -33,6 +37,8 @@ Mark the contribution to open source.
 [YARN-10506](https://issues.apache.org/jira/browse/YARN-10506) Update queue creation logic to use weight mode and allow the flexible static/dynamic creation. (Contributed by Qi Zhu, Andras Gyori)
 
 [YARN-10463](https://issues.apache.org/jira/browse/YARN-10463) For Federation, we should support getApplicationAttemptReport. (#2563) Qi Zhu via Zhankun Tang
+
+[YARN-10685](https://issues.apache.org/jira/browse/YARN-10685) Fix typos in AbstractCSQueue. Contributed by Qi Zhu.
 
 [YARN-10504](https://issues.apache.org/jira/browse/YARN-10504) Implement weight mode in Capacity Scheduler. (Contributed by Wangda Tan, Benjamin Teke, zhuqi, Andras Gyori)
 
