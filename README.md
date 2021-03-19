@@ -68,6 +68,10 @@ Mark the contribution to open source.
 
 [YARN-10689](https://issues.apache.org/jira/browse/YARN-10689) Fix the finding bugs in extractFloatValueFromWeightConfig. (#2760)
 
+[YARN-10703](https://issues.apache.org/jira/browse/YARN-10703) Fix potential null pointer error of gpuNodeResourceUpdateHandler in NodeResourceMonitorImpl. Contributed by Qi Zhu.
+
+[YARN-10701](https://issues.apache.org/jira/browse/YARN-10701) The yarn.resource-types should support multi types without trimmed. Contributed by Qi Zhu.
+
 [HDFS-15856](https://issues.apache.org/jira/browse/HDFS-15856) Make write pipeline retry times configurable. (#2721). Contributed by Qi Zhu
 
 [HDFS-15041](https://issues.apache.org/jira/browse/HDFS-15041) Make MAX_LOCK_HOLD_MS and full queue size configurable. Contributed by zhuqi.
