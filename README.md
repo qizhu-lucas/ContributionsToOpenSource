@@ -8,6 +8,8 @@ Mark the contribution to open source.
 ### Hadoop (HDFS/YARN)
 [YARN-10532](https://issues.apache.org/jira/browse/YARN-10532) Capacity Scheduler Auto Queue Creation: Allow auto delete queue when queue is not being used. Contributed by Qi Zhu.  
 
+[YARN-10674](https://issues.apache.org/jira/browse/YARN-10674) fs2cs should generate auto-created queue deletion properties. Contributed by Qi Zhu.
+
 [YARN-10623](https://issues.apache.org/jira/browse/YARN-10623) Capacity scheduler should support refresh queue automatically by a thread policy. Contributed by Qi Zhu.   
 
 [YARN-10687](https://issues.apache.org/jira/browse/YARN-10687) Add option to disable/enable free disk space checking and percentage checking for full and not-full disks. Contributed by Qi Zhu.
