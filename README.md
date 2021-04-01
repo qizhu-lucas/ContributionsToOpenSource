@@ -6,6 +6,9 @@ Mark the contribution to open source.
 ## Merged to Apache Community
 
 ### Hadoop (HDFS/YARN)
+[YARN-10720](https://issues.apache.org/jira/browse/YARN-10720) YARN WebAppProxyServlet should support connection timeout to prevent proxy server from hanging. Contributed by Qi Zhu.
+
+
 [YARN-10532](https://issues.apache.org/jira/browse/YARN-10532) Capacity Scheduler Auto Queue Creation: Allow auto delete queue when queue is not being used. Contributed by Qi Zhu.  
 
 [YARN-10674](https://issues.apache.org/jira/browse/YARN-10674) fs2cs should generate auto-created queue deletion properties. Contributed by Qi Zhu.
