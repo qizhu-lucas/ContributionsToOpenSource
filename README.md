@@ -164,6 +164,8 @@ Mark the contribution to open source.
 
 [HDFS-14944](https://issues.apache.org/jira/browse/HDFS-14944)  ec admin such as : -enablePolicy should support multi federation namespace not only the default namespace in core-site.xml
 
+[HADOOP-17619](https://issues.apache.org/jira/browse/HADOOP-17619) Fix DelegationTokenRenewer#updateRenewalTime java doc error. (#2846). Contributed by Qi Zhu.
+
 ### Hadoop Common:
 [HADOOP-17257](https://issues.apache.org/jira/browse/HADOOP-17257) pid file delete when service stop (secure datanode ) show cat no directory
 
