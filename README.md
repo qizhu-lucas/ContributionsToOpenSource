@@ -90,6 +90,8 @@ Mark the contribution to open source.
 
 [HDFS-15856](https://issues.apache.org/jira/browse/HDFS-15856) Make write pipeline retry times configurable. (#2721). Contributed by Qi Zhu
 
+[HDFS-15930](https://issues.apache.org/jira/browse/HDFS-15930) Fix some @param errors in DirectoryScanner. (#2829). Contributed by Qi Zhu.
+
 ### BigTop
 [BIGTOP-3456](https://issues.apache.org/jira/browse/BIGTOP-3456) Add hadoop-yarn-router and hadoop-hdfs-dfsrouter to hadoop services (#703)
 
