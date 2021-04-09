@@ -6,6 +6,9 @@ Mark the contribution to open source.
 ## Merged to Apache Community
 
 ### Hadoop (HDFS/YARN)
+
+[YARN-10503](https://issues.apache.org/jira/browse/YARN-10503). Support queue capacity in terms of absolute resources with custom resourceType. Contributed by Qi Zhu.
+
 [YARN-10720](https://issues.apache.org/jira/browse/YARN-10720) YARN WebAppProxyServlet should support connection timeout to prevent proxy server from hanging. Contributed by Qi Zhu.
 
 [YARN-9618](https://issues.apache.org/jira/browse/YARN-9618) NodesListManager event improvement. Contributed by Qi Zhu.
