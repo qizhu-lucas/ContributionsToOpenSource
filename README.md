@@ -63,6 +63,8 @@ Mark the contribution to open source.
 
 [YARN-10718](https://issues.apache.org/jira/browse/YARN-10718) Fix CapacityScheduler#initScheduler log error. Contributed by Qi Zhu.
 
+[YARN-10723](https://issues.apache.org/jira/browse/YARN-10723) Change CS nodes page in UI to support custom resource. Contributed by Qi Zhu
+
 [YARN-10448](https://issues.apache.org/jira/browse/YARN-10448) SLS should set default user to handle SYNTH format. Contributed by zhuqi
 
 [YARN-10611](https://issues.apache.org/jira/browse/YARN-10611) Fix that shaded should be used for google guava imports in YARN-10352. Contributed by Qi Zhu
