@@ -66,6 +66,7 @@ Mark the contribution to open source.
 [YARN-10723](https://issues.apache.org/jira/browse/YARN-10723) Change CS nodes page in UI to support custom resource. Contributed by Qi Zhu
 
 [YARN-10448](https://issues.apache.org/jira/browse/YARN-10448) SLS should set default user to handle SYNTH format. Contributed by zhuqi
+[YARN-10743](https://issues.apache.org/jira/browse/YARN-10743) Add a policy for not aggregating for containers which are killed because exceeding container log size limit. Contributed by Qi Zhu
 
 [YARN-10611](https://issues.apache.org/jira/browse/YARN-10611) Fix that shaded should be used for google guava imports in YARN-10352. Contributed by Qi Zhu
 
