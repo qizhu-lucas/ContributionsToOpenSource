@@ -53,6 +53,8 @@ Mark the contribution to open source.
 
 [YARN-10685](https://issues.apache.org/jira/browse/YARN-10685) Fix typos in AbstractCSQueue. Contributed by Qi Zhu.
 
+[YARN-10637](https://issues.apache.org/jira/browse/YARN-10637) fs2cs: add queue autorefresh policy during conversion. Contributed by Qi Zhu.
+
 [YARN-10504](https://issues.apache.org/jira/browse/YARN-10504) Implement weight mode in Capacity Scheduler. (Contributed by Wangda Tan, Benjamin Teke, zhuqi, Andras Gyori)
 
 [YARN-10380](https://issues.apache.org/jira/browse/YARN-10380) Import logic of multi-node allocation in CapacityScheduler (#2494)  Contributed by Qi Zhu.
@@ -106,8 +108,6 @@ Mark the contribution to open source.
 ## Patch availale or In progress:
 ### YARN/HDFS
 
-[YARN-10637](https://issues.apache.org/jira/browse/YARN-10637) We should support fs to cs support for auto refresh queues when conf changed, after YARN-10623 finished.
-
 [YARN-10178](https://issues.apache.org/jira/browse/YARN-10178) Global Scheduler async thread crash caused by 'Comparison method violates its general contract'
 
 [YARN-10632](https://issues.apache.org/jira/browse/YARN-10632) Make maximum depth allowed configurable.
@@ -128,8 +128,6 @@ Mark the contribution to open source.
 
 [YARN-10546](https://issues.apache.org/jira/browse/YARN-10546) Limit application resource reservation on nodes for non-node/rack specific requests shoud be supported in CS.
 
-[YARN-10503](https://issues.apache.org/jira/browse/YARN-10503) Support queue capacity in terms of absolute resources with more resourceTypes.
-
 [YARN-10608](https://issues.apache.org/jira/browse/YARN-10608) Extend yarn.nodemanager.delete.debug-delay-sec to support application level.
 
 [YARN-10590](https://issues.apache.org/jira/browse/YARN-10590) Fix TestCapacitySchedulerAutoCreatedQueueBase witch related absolute caculation loss.
@@ -141,8 +139,6 @@ Mark the contribution to open source.
 [YARN-10514](https://issues.apache.org/jira/browse/YARN-10514) Introduce a dominant resource based schedule policy to increase the resource utilization, avoid heavy cluster resource fragments.
 
 [YARN-10169](https://issues.apache.org/jira/browse/YARN-10169) Mixed absolute resource value and percentage-based resource value in CapacityScheduler should fail
-
-[YARN-9618](https://issues.apache.org/jira/browse/YARN-9618) NodeListManager event improvement
 
 [YARN-8556](https://issues.apache.org/jira/browse/YARN-8556) Support dynamic policy updates in Capacity Scheduler
 
