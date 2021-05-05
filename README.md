@@ -29,6 +29,8 @@ Mark the contribution to open source.
 
 [YARN-9615](https://issues.apache.org/jira/browse/YARN-9615) Add dispatcher metrics to RM. Contributed by Jonathan Hung and Qi Zhu.
 
+[YARN-10707](https://issues.apache.org/jira/browse/YARN-10707) Support custom resources in ResourceUtilization, and update Node GPU Utilization to use. Contributed by Qi Zhu
+
 [YARN-10688](https://issues.apache.org/jira/browse/YARN-10688) ClusterMetrics should support GPU capacity related metrics.. Contributed by Qi Zhu.
 
 [YARN-10713](https://issues.apache.org/jira/browse/YARN-10713) ClusterMetrics should support custom resource capacity related metrics. Contributed by Qi Zhu.
