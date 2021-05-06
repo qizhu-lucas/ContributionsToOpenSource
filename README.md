@@ -95,6 +95,7 @@ Mark the contribution to open source.
 [YARN-10703](https://issues.apache.org/jira/browse/YARN-10703) Fix potential null pointer error of gpuNodeResourceUpdateHandler in NodeResourceMonitorImpl. Contributed by Qi Zhu.
 
 [YARN-10701](https://issues.apache.org/jira/browse/YARN-10701) The yarn.resource-types should support multi types without trimmed. Contributed by Qi Zhu.
+
 [HDFS-15934](https://issues.apache.org/jira/browse/HDFS-15934) Make DirectoryScanner reconcile blocks batch size and interval between batch configurable. Contributed by Qi Zhu. (#2833)
 
 [HDFS-15856](https://issues.apache.org/jira/browse/HDFS-15856) Make write pipeline retry times configurable. (#2721). Contributed by Qi Zhu
